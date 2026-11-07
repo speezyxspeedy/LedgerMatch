@@ -1,0 +1,19 @@
+invoice_id,customer_name,invoice_date,due_date,total_amount,currency,notes
+INV-1001,Acme Industrial Supplies,2026-10-01,2026-10-15,150000.00,INR,Bulk machinery parts order #849
+INV-1002,Zenith Logistics Pvt Ltd,2026-10-03,2026-10-18,75000.00,INR,Q3 fleet maintenance contract
+INV-1003,Bharat Tech Solutions,2026-10-05,2026-10-20,240000.00,INR,Annual enterprise software license
+INV-1004,Blue Horizon Exports,2026-10-06,2026-10-21,85000.00,INR,Export freight and handling fee
+INV-1005,Apex Retail Network,2026-10-08,2026-10-23,120000.00,INR,Store renovation fixtures tranche 1
+INV-1006,Global Green Energy,2026-10-10,2026-10-25,310000.00,INR,Solar farm inverter consultation
+INV-1007,Om Enterprise Logistics,2026-10-12,2026-10-27,45000.00,INR,Interstate trucking logistics
+INV-1008,Titan Manufacturing,2026-10-14,2026-10-29,195000.00,INR,Raw steel billets shipment #12
+INV-1009,Kavya Infrastructure Ltd,2026-10-15,2026-10-30,520000.00,INR,Civil engineering site survey
+INV-1010,Sovereign Foods & Spices,2026-10-18,2026-11-02,62500.00,INR,Packaging materials batch 9
+INV-1011,Metro Rail Transit Corp,2026-10-20,2026-11-04,180000.00,INR,Signaling equipment inspection
+INV-1012,Vertex Cloud Services,2026-10-22,2026-11-06,95000.00,INR,Dedicated server hosting Q3
+INV-1013,Radha Textiles Pvt Ltd,2026-10-25,2026-11-09,135000.00,INR,Yarn spun raw consignment
+INV-1014,Pinnacle Pharma Labs,2026-10-28,2026-11-12,280000.00,INR,Cleanroom sterilization equipment
+INV-1015,Falcon Aerospace Parts,2026-10-30,2026-11-14,410000.00,INR,Precision titanium fasteners
+INV-1016,Acme Industrial Supplies,2026-10-31,2026-11-15,150000.00,INR,Repeat machinery spare units
+INV-1017,Starlight Media Group,2026-11-01,2026-11-16,50000.00,INR,Ad campaign production studio fee
+INV-1018,Pacific Imports Inc,2026-10-10,2026-10-25,2500.00,USD,Cross-border tariff settlement

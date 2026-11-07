@@ -1,0 +1,6 @@
+{
+  "name": "LedgerMatch",
+  "description": "Intelligent Invoice & Payment Reconciliation Platform. Every Payment Has Its Invoice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

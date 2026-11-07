@@ -1,0 +1,16 @@
+transaction_id,reference_id,payer_name,payment_date,amount,currency,payment_method
+TXN-9001,INV-1001,Acme Industrial Supplies,2026-10-05,150000.00,INR,NEFT Bank Transfer
+TXN-9002,INV-1002,Zenith Logistics Pvt Ltd,2026-10-08,75000.00,INR,RTGS Wire
+TXN-9003,,Bharat Tech Solutions,2026-10-18,240000.00,INR,Direct Corporate Wire
+TXN-9004,INV-1004,Blue Horizon Exports,2026-10-11,45000.00,INR,UPI Corporate Payout
+TXN-9005,INV-1004,Blue Horizon Exports,2026-10-24,25000.00,INR,NEFT Part Settlement
+TXN-9006,,Apex Retail Netwrk,2026-10-22,120000.00,INR,Cheque Deposit #440192
+TXN-9007,INV-1007,Om Enterprise Logistics,2026-10-16,45000.00,INR,RTGS Settlement
+TXN-9007,INV-1007,Om Enterprise Logistics,2026-10-16,45000.00,INR,RTGS Settlement (Duplicate Row)
+TXN-9008,INV-1007,Om Enterprise Logistics,2026-10-16,45000.00,INR,Duplicate Wire Notification
+TXN-9009,INV-1008,Titan Manufacturing,2026-10-26,210000.00,INR,IMPS Overpayment
+TXN-9010,INV-9999,Sunrise Solar Trading,2026-10-27,88000.00,INR,NEFT Unmatched Remittance
+TXN-9011,,Sovereign Foods & Spices,2026-10-29,62500.00,INR,UPI Payment Gateway
+TXN-9012,INV-1012,Vertex Cloud Services,2026-10-26,95000.00,INR,ACH Automated Debit
+TXN-9013,,Unidentified Payer Bank Wire,2026-10-28,50000.00,INR,Cash Deposit Mumbai Branch
+TXN-9014,INV-1018,Pacific Imports Inc,2026-10-14,2500.00,USD,SWIFT International Wire
